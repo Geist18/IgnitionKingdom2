@@ -1,0 +1,7 @@
+nav {
+    background-color: rgba(22,34,57,0.95);
+    height: 80px;
+    z-index: 1;
+    width: 100%;
+    color: none !important;
+}
